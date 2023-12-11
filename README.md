@@ -1,4 +1,8 @@
-# OpenAI_Langchain
+## NLP PROJECTS:
 
 
-To share open ai projects 
+# Goal: 
+Repository for  NLP data science explorations.
+
+
+
