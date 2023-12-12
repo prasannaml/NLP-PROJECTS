@@ -1,4 +1,4 @@
-# Retrieval Augmented Generation
+## Retrieval Augmented Generation
 
 This notebook uses imdb data from 2022 and showcases RAG techniques.  
 connect to pinecone to store vector embeddings for efficient querying.  
