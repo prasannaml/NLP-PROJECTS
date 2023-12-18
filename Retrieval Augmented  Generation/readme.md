@@ -1,4 +1,3 @@
-
 ## Retrieval Augmented Generation
 
 * This notebook uses imdb data from 2022 and showcases RAG techniques.
