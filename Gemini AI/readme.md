@@ -1,4 +1,4 @@
-This folder contains a notebook exploring Gemini Pro and Gemini Provision multimodal model APIs and their capabilities.
+A notebook exploring Gemini Pro and Gemini Provision multimodal model APIs and their capabilities.
 ## Contents:
 * Importing libraries and Connecting to Vertex APIs
 * Initializing Gemini Pro chat to prompt for NLP tasks
